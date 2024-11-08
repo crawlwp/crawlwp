@@ -18,5 +18,5 @@ Please visit the [plugin page](https://crawlwp.com/) with any questions.
 
 == Changelog ==
 
-= 2.0.0 =
+= 3.0.0 =
 * The genesis
