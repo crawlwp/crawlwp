@@ -1,4 +1,4 @@
-=== CrawlWP - WordPress Indexing & SEO Insights Plugin ===
+=== CrawlWP Premium - WordPress Indexing & SEO Insights Plugin ===
 Tags: seo, indexnow, seo index, seo insights, seo plugin
 Requires at least: 4.9
 Requires PHP: 7.4
