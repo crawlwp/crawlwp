@@ -3,7 +3,7 @@ Tags: seo, indexnow, seo index, seo insights, seo plugin
 Requires at least: 5.3
 Requires PHP: 7.4
 Tested up to: 6.8
-Stable tag: 3.0.7
+Stable tag: 3.0.8
 License: GPL-2.0+
 
 SEO plugin for indexing WordPress content and monitoring search engine performance.
@@ -17,6 +17,10 @@ SEO plugin for indexing WordPress content and monitoring search engine performan
 Please visit the [plugin page](https://crawlwp.com/) with any questions.
 
 == Changelog ==
+
+= 3.0.8 =
+* Added Bing support in SEO Stats.
+* Improvements to auto-indexing.
 
 = 3.0.7 =
 * Autoindex improvements.
