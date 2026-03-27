@@ -1,9 +1,9 @@
 === CrawlWP Premium - WordPress Indexing & SEO Insights Plugin ===
 Tags: seo, indexnow, seo index, seo insights, seo plugin
 Requires at least: 6.0
-Requires PHP: 7.4
-Tested up to: 6.9
-Stable tag: 3.1.0
+Requires PHP: 8.0
+Tested up to: 7.0
+Stable tag: 3.1.1
 License: GPL-2.0+
 
 SEO plugin for indexing WordPress content and monitoring search engine performance.
@@ -17,6 +17,11 @@ SEO plugin for indexing WordPress content and monitoring search engine performan
 Please visit the [plugin page](https://crawlwp.com/) with any questions.
 
 == Changelog ==
+
+= 3.1.1 =
+* Added bulk-action to manually check Google/Bing index status.
+* Fixed styling issue for post list table.
+* Improved admin ui for WP 7.0
 
 = 3.1.0 =
 * Added [SEO Performance Email Report](https://crawlwp.com/article/seo-performance-email-reports/?ref=changelog).
