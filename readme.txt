@@ -3,7 +3,7 @@ Tags: seo, indexnow, seo index, seo insights, seo plugin
 Requires at least: 6.0
 Requires PHP: 8.0
 Tested up to: 7.0
-Stable tag: 3.2.0
+Stable tag: 3.2.1
 License: GPL-2.0+
 
 SEO plugin for indexing WordPress content and monitoring search engine performance.
@@ -18,10 +18,13 @@ Please visit the [plugin page](https://crawlwp.com/) with any questions.
 
 == Changelog ==
 
+= 3.2.1 =
+* Fixed bug with Yandex-related bulk actions not working
+
 = 3.2.0 =
 * Added Yandex support in SEO Stats.
 * Added basic Yandex indexing status support.
-* Fixed: Warning: Undefined array key
+* Fixed: Warning: Undefined array key.
 
 = 3.1.1 =
 * Added bulk-action to manually check Google/Bing index status.
